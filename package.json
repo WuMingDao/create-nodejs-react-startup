@@ -1,0 +1,28 @@
+{
+  "name": "create-nodejs-react-startup",
+  "version": "0.0.1",
+  "description": "my usefully use or learning of simple template for react and nodejs project.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-nodejs-react-startup": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template"
+  ],
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "fs-extra": "^11.3.1"
+  },
+  "keywords": [
+    "create",
+    "template",
+    "quick start",
+    "react",
+    "backend",
+    "frontend"
+  ],
+  "author": "wumingdao-new <wumingdao@gmail.com>",
+  "license": "MIT"
+}

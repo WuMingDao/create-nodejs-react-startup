@@ -6,16 +6,7 @@ my usefully use or learning of simple template for react and nodejs project.
 
 By I learning and familiar tools update.
 
-```
 - 2025-08-09: Create Template
-```
-
-#### Notine
-
-```zsh
-# Not forget this how write
-.gitignore
-```
 
 ## Backend Part
 
