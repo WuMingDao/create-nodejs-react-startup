@@ -23,6 +23,10 @@
     "backend",
     "frontend"
   ],
-  "author": "wumingdao-new <wumingdao@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WuMingDao/create-nodejs-react-startup.git"
+  },
+  "author": "wumingdao-new wumingdao@gmail.com",
   "license": "MIT"
 }
