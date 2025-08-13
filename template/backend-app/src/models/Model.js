@@ -13,7 +13,7 @@ const User = sequelize.define(
     },
   },
   {
-    tablename: "tb_user",
+    tableName: "tb_user",
   }
 );
 

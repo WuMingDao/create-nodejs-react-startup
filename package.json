@@ -1,20 +1,16 @@
 {
   "name": "create-nodejs-react-startup",
-  "version": "0.0.1",
+  "type": "module",
+  "version": "0.0.2",
   "description": "my usefully use or learning of simple template for react and nodejs project.",
   "main": "index.js",
-  "type": "module",
-  "bin": {
-    "create-nodejs-react-startup": "index.js"
+  "license": "MIT",
+  "author": "wumingdao-new wumingdao@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuMingDao/create-nodejs-react-startup.git"
   },
-  "files": [
-    "index.js",
-    "template"
-  ],
-  "dependencies": {
-    "chalk": "^5.5.0",
-    "fs-extra": "^11.3.1"
-  },
+  "bug": "https://github.com/WuMingDao/create-nodejs-react-startup/issues",
   "keywords": [
     "create",
     "template",
@@ -23,10 +19,12 @@
     "backend",
     "frontend"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/WuMingDao/create-nodejs-react-startup.git"
+  "bin": {
+    "create-nodejs-react-startup": "index.js"
   },
-  "author": "wumingdao-new wumingdao@gmail.com",
-  "license": "MIT"
+  "files": [
+    "index.js",
+    "template"
+  ],
+  "dependencies": {}
 }
